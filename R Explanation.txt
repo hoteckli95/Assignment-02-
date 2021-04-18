@@ -1,0 +1,32 @@
+Line 2 3 & 4
+- Opens up libraries with useful functions. 
+
+Line 7 
+- Opens up grocery transactions
+
+Line 10 12 13 
+- Prints all the data pulled 
+
+Line 16 - 20.
+- PLots a table 
+
+Line 25 - 27, 
+- Figure out the weightage of certain foods
+
+Line 33 - 34
+- Prints the food that is relevant 
+- Prints the food that is not
+
+Line 36 - 41 
+- Plots the graph 
+
+Line 45 - 52
+- PLots the statistical significance of data
+
+Line 54 - 65
+- PLots the graph
+
+Line 66 - 79 
+- Ranks the significance of the data and plots a graph. 
+
+
